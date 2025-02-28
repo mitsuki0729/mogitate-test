@@ -2,7 +2,7 @@
 # アプリケーション名
 もぎたて
 ## 環境構築
-1. git clone https://github.com/mitsuki0729/test-contact-form.git
+1. git clone https://github.com/mitsuki0729/mogitate-test.git
 2. docker-compose up -d --build
 3. docker-compose exec php bash
 4. composer install
